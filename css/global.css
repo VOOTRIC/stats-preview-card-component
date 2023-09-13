@@ -2,13 +2,20 @@
     box-sizing: border-box;
 }
 
-
 :root{
 
-    /* (main background) */
+    /* main background */
     --very-dark-blue: hsl(233, 47%, 7%);
     /* Crad Background */
     --dark-desaturated-blue: hsl(244, 38%, 16%);
-    /* Filtro/Texto */
+    /* Accent */
     --soft-violet: hsl(277, 64%, 61%);
+
+    /* Main heading, stats */
+    --white: hsl(0, 0%, 100%);
+    /* main paragraph */
+    --slightly-transparent-white: hsla(0, 0%, 100%, 0.75);
+    /* stat headings */
+    --slightly-transparent-white: hsla(0, 0%, 100%, 0.6);
+
 }
