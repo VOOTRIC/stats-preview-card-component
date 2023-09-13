@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+
+:root{
+
+    /* (main background) */
+    --very-dark-blue: hsl(233, 47%, 7%);
+    /* Crad Background */
+    --dark-desaturated-blue: hsl(244, 38%, 16%);
+    /* Filtro/Texto */
+    --soft-violet: hsl(277, 64%, 61%);
+}
