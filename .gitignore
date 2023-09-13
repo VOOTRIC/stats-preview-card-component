@@ -1,4 +1,4 @@
 #ignorar a pasta AUXILIAR que contém imagens auxiliares 
 #usadas somente para o desenvolvimento do projeto
 #mas que não possuem relevância alguma para versão final
-/images/auxiliar  
+/images/auxiliar/
