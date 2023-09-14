@@ -18,7 +18,7 @@
     /* Main heading, stats */
     --white: hsl(0, 0%, 100%);
     /* main paragraph */
-    --slightly-transparent-white: hsla(0, 0%, 100%, 0.75);
+    --slightly-transparent-white-1: hsla(0, 0%, 100%, 0.75);
     /* stat headings */
-    --slightly-transparent-white: hsla(0, 0%, 100%, 0.6);
+    --slightly-transparent-white-2: hsla(0, 0%, 100%, 0.6);
 }
