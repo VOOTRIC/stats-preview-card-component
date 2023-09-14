@@ -2,7 +2,7 @@
     .main-bg{
         color: var(--very-dark-blue);
     }
-    
+
     /* Crad Background */
     .crad-bg{
         color: var(--dark-desaturated-blue);
@@ -13,8 +13,6 @@
         color: var(--soft-violet);
     }
 
-    --soft-violet: hsl(277, 64%, 61%);
-
     /* Main heading, stats */
     .main-heading{
      color: var(--white);
@@ -22,7 +20,7 @@
 
     /* main paragraph */
     .main-paragraph{
-        color: var(--slightly-transparent-white-1)
+        color: var(--slightly-transparent-white-1);
     }
     
     /* stat headings */
