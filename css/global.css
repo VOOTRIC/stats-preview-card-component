@@ -4,6 +4,9 @@
 
 body{
 background-color: var(--very-dark-blue);
+background-image: url("../images/auxiliar/desktop-design.jpg");
+background-position: center;
+background-repeat: no-repeat;
 }
 
 
