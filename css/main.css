@@ -1,6 +1,9 @@
 /* - Mobile: 375px
 - Desktop: 1440px */
 
+main{
+    place-self: center;
+}
 
 .numbers-container{
 display: grid;
