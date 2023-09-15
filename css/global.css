@@ -11,10 +11,11 @@ span{
     display: inline-block;
 }
 
-
+p{
+    font-size: 15px;
+}
 
 :root{
-
     /* main background */
     --very-dark-blue: hsl(233, 47%, 7%);
     /* Crad Background */
