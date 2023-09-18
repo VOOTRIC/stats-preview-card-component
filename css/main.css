@@ -17,6 +17,7 @@ main {
 
 .numbers-container {
     display: grid;
+    align-content: center;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto auto;
 }
@@ -24,6 +25,7 @@ main {
 .number-box {
     display: flex;
     flex-direction: column;
+    gap: 5px;
 }
 
 .number-box .font-Inter-700.main-heading {

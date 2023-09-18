@@ -23,9 +23,9 @@ h1{
 }
 
 p{
-    font-size: 14px;
-    max-width: 38ch;
-
+    font-size: 13px;
+    max-width: 37ch;
+    line-height: 1.5rem;
 }
 
 
